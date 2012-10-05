@@ -3,6 +3,7 @@ layout: default
 ---
 <div role="main">
    {% for post in paginator.posts %}
-      {{ content }}
+      {{ post.title }}
+      {{ post.content }}
    {% endfor %}
 </div>
