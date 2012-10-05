@@ -1,6 +1,2 @@
 permalink: /:categories/:title/
 auto: false
-markdown: rdiscount
-
-rdiscount:
-  extensions: []
