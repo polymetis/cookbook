@@ -1,4 +1,7 @@
 permalink: /:categories/:title/
 auto: false
 paginate: 7
-markdown: RDiscount
+markdown: rdiscount
+
+rdiscount:
+  extensions: []
