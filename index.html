@@ -1,1 +1,8 @@
-My GitHub Cook Book
+---
+layout: default
+---
+<div role="main">
+   {% for post in paginator.posts %}
+      {{ content }}
+   {% endfor %}
+</div>
