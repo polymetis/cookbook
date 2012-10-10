@@ -2,4 +2,5 @@
 @import 'normalize';
 @import 'html5boilerpre';
 @import 'html5boilerhelpers';
-@import 'print';
+@media print{
+  @import 'print';}
