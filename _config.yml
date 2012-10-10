@@ -1,2 +1,5 @@
 permalink: /:categories/:title/
 auto: false
+markdown: kramdown
+exclude: scss
+
