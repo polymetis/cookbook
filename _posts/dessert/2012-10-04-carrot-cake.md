@@ -14,8 +14,7 @@ categories:
 * 4 eggs
 * 1/2 tsp salt
 * 1 1/3 cup flour
-* 1 1/3 tsp Baking Powder
-* 1 1/3 tsp Baking Soda 
+* 2 tsp Baking Powder 
 
 ###Carrot Cake specifics 
 
